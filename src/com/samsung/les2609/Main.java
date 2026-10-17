@@ -20,6 +20,7 @@ public class Main {
         for (int i = a.length - 1; i > 0; i--) {
             a[i] = a[i - 1];
         }
+        System.out.println();
         a[0] = lastElement;
     }
 }
