@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Я НАПИСАЛ НОВУЮ ФИЧУ 2");
         System.out.println("Я НАПИСАЛ НОВУЮ ФИЧУ 3");
         System.out.println("Я НАПИСАЛ НОВУЮ ФИЧУ 4");
+        System.out.println("Я НАПИСАЛ НОВУЮ ФИЧУ 5");
     }
 
 }
